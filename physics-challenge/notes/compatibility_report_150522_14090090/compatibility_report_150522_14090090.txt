@@ -1,0 +1,26 @@
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description  Initialization
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_2.gml
+Converted description /// @description  Controls
+
+Converting GML script: ${project_dir}\objects\obj_player\Collision_547aa235-f778-4609-97d8-ce53a0e70691.gml
+Converted description /// @description  obj_snow Collision
+
+Converting GML script: ${project_dir}\objects\obj_player\Collision_168a4651-2bef-4b32-931b-b0a98a5cb4d3.gml
+Converted description /// @description  obj_block Collision
+
+Converting GML script: ${project_dir}\objects\obj_snow\Collision_b729aa52-1e73-4004-b599-ee3f294c637d.gml
+Converted description /// @description  obj_block Collision
+
+Missing audiogroup for sound: 'sound0' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
