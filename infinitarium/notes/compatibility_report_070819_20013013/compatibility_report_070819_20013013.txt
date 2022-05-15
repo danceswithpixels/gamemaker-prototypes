@@ -1,0 +1,50 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\obj_ash\Step_2.gml
+Converted string - line 4: 'A' -> "A"
+Converted string - line 7: 'D' -> "D"
+
+Converting GML script: ${project_dir}\objects\obj_block\Step_2.gml
+Converted string - line 4: 'A' -> "A"
+Converted string - line 7: 'D' -> "D"
+
+Converting GML script: ${project_dir}\objects\obj_bullet\Step_2.gml
+Converted string - line 4: 'A' -> "A"
+Converted string - line 7: 'D' -> "D"
+
+Converting GML script: ${project_dir}\objects\obj_fire\Step_2.gml
+Converted string - line 6: 'A' -> "A"
+Converted string - line 9: 'D' -> "D"
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description  Initialization
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_2.gml
+Converted description /// @description  Spawn traps
+
+Converting GML script: ${project_dir}\objects\obj_player\Collision_2e6f1755-8116-4cce-87d0-c8d6e1143c91.gml
+Converted description /// @description  obj_block Collision + Controls (Jump)/// @param Jump
+Converted string - line 5: 'W' -> "W"
+
+Converting GML script: ${project_dir}\objects\obj_player\Collision_43d9c921-23e7-40c9-b858-5d1d8ce4276a.gml
+Converted description /// @description  obj_ash Collision
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_0.gml
+Converted description /// @description  Scoring
+Converted string - line 3: 'A' -> "A"
+Converted string - line 6: 'D' -> "D"
+Converted string - line 9: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\obj_spike\Step_2.gml
+Converted string - line 4: 'A' -> "A"
+Converted string - line 7: 'D' -> "D"
+
+Missing audiogroup for sound: 'snd_horizon515' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
